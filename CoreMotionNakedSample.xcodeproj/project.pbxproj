@@ -13,6 +13,7 @@
 		2478950A24B9307C00217E40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2478950924B9307C00217E40 /* Assets.xcassets */; };
 		2478950D24B9307C00217E40 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2478950C24B9307C00217E40 /* Preview Assets.xcassets */; };
 		2478951024B9307C00217E40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2478950E24B9307C00217E40 /* LaunchScreen.storyboard */; };
+		2478951824B9309900217E40 /* MotionSensorNaked.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2478951724B9309900217E40 /* MotionSensorNaked.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2478950C24B9307C00217E40 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2478950F24B9307C00217E40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2478951124B9307C00217E40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2478951724B9309900217E40 /* MotionSensorNaked.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionSensorNaked.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				2478950324B9307A00217E40 /* AppDelegate.swift */,
+				2478951724B9309900217E40 /* MotionSensorNaked.swift */,
 				2478950524B9307A00217E40 /* SceneDelegate.swift */,
 				2478950724B9307A00217E40 /* ContentView.swift */,
 				2478950924B9307C00217E40 /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2478950424B9307A00217E40 /* AppDelegate.swift in Sources */,
+				2478951824B9309900217E40 /* MotionSensorNaked.swift in Sources */,
 				2478950624B9307A00217E40 /* SceneDelegate.swift in Sources */,
 				2478950824B9307A00217E40 /* ContentView.swift in Sources */,
 			);
